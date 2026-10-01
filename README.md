@@ -48,9 +48,10 @@ Praticar habilidades relacionadas a:
 - Análise de Custos
 
 ## 📂 Arquivos do Projeto
-
-- `Primeiro Projeto Analise Gastos Cloud.pbix` → Arquivo do dashboard Power BI
-- `cloud_costs.csv` → Base de dados utilizada
+ 
+- `CloudCostAnalysisDashboard.pbix` → Arquivo do Power BI
+- `cloud_costs.csv` → Base de dados utilizada para análise
+- `dashboard.png` → Imagem do dashboard
 
 ## 👨‍💻 Autor
 
