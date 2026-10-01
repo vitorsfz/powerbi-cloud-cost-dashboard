@@ -2,8 +2,7 @@
 
 ## 📸 Dashboard
 
-dashboard.png
-''
+![Dashboardng
 
 ## 📊 Sobre o Projeto
 
