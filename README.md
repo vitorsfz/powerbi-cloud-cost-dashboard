@@ -1,5 +1,10 @@
 # Cloud Cost Analysis Dashboard
 
+## 📸 Dashboard
+
+dashboard.png
+''
+
 ## 📊 Sobre o Projeto
 
 Projeto desenvolvido em Power BI para análise de custos em nuvem utilizando dados fictícios de serviços AWS e Azure.
