@@ -52,4 +52,4 @@ Praticar habilidades relacionadas a:
 
 Vitor Fernandes
 
-LinkedIn: https://www.linkedin.com/in/vitorsfv de custos em nuvem desenvolvido em Power BI utilizando dados fictícios de AWS e Azure.
+LinkedIn: https://www.linkedin.com/in/vitorsfv 
